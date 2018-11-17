@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source.cpp(20): warning C4101: 'i' : unreferenced local variable
+Source.cpp(19): warning C4101: 'channels' : unreferenced local variable
+Source.cpp(20): warning C4101: 'k' : unreferenced local variable
+Source.cpp(20): warning C4101: 'j' : unreferenced local variable
+  test.vcxproj -> E:\Documents\Visual Studio 2013\_OpenCV\test\x64\Debug\test.exe
